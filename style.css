@@ -1,0 +1,30 @@
+.card {
+  width: 330px;
+  margin-inline: auto;
+}
+.fabulous {
+  text-align: center;
+  margin-top: 15px;
+  padding: 5px;
+  background-color: #fbfdd6ec;
+}
+.card-2 {
+  text-align: center;
+  margin-top: 15px;
+  padding: 133px;
+}
+.feature {
+  text-align: start;
+}
+
+.body {
+  margin-inline: auto;
+  margin-top: 2rem;
+  text-align: center;
+}
+.focaccia1 {
+  border-radius: 10px;
+}
+.h4 {
+  text-align: start;
+}
