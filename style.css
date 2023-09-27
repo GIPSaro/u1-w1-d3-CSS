@@ -1,4 +1,4 @@
-.card {
+.div.car.img {
   width: 330px;
   margin-inline: auto;
 }
@@ -8,23 +8,36 @@
   padding: 5px;
   background-color: #fbfdd6ec;
 }
-.card-2 {
+.body {
   text-align: center;
+}
+.card-2 {
   margin-top: 15px;
   padding: 133px;
+  text-align: center;
 }
 .feature {
   text-align: start;
+  font-family: "Times New Roman", Times, serif;
 }
 
-.body {
-  margin-inline: auto;
-  margin-top: 2rem;
-  text-align: center;
+.feature {
+  color: rgb(148, 30, 30);
+  margin-top: 20px;
 }
+.fresh {
+  color: rgb(49, 103, 107);
+  text-align: unset;
+}
+
 .focaccia1 {
   border-radius: 10px;
+  color: rgb(215, 213, 213);
 }
 .ingredients {
   text-align: start;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.sally {
+  color: rgb(195, 191, 191);
 }
