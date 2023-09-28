@@ -1,6 +1,6 @@
-.div.car.img {
-  width: 330px;
-  margin-inline: auto;
+.header {
+  width: 800px;
+  border-inline: auto;
 }
 .fabulous {
   text-align: center;
@@ -24,6 +24,7 @@
 .feature {
   color: rgb(148, 30, 30);
   margin-top: 20px;
+  border-left: 2px solid #ffe39f;
 }
 .fresh {
   color: rgb(49, 103, 107);
